@@ -1,4 +1,4 @@
-python
+python-3.8.5
 python-telegram-bot
 spotdl
 poetry-core
